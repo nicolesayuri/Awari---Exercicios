@@ -1,6 +1,6 @@
 // AND
 const conditionA = true;
-const conditionB = false;
+const conditionB = true;
 
 if (conditionA && conditionB) {
     console.log(`AND ${conditionA} && ${conditionB} = Condição atingida`);

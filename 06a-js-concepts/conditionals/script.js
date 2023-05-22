@@ -1,4 +1,4 @@
-let score = 8;
+let score = 9;
 
 if (score > 0) {
     console.log('Final score: ', score);

@@ -1,3 +1,3 @@
-const value1 = 1;
+const email = 'nicole.sayuri2@gmail.com';
 
-console.log('value1 = ', value1);
+console.log('e-mail cadastrado = ', email);
